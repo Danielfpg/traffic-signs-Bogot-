@@ -1,0 +1,1 @@
+python main_camera.py --model modelo_v3.h5 --source 0
